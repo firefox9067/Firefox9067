@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working on OVERFOXING in SNOWDOT
 - 🌱 I’m currently Unity & CSharp
-- 📫 How to reach me: contact@firefx.moe
+- 📫 How to reach me: contact@firefx.moe & firefox9067@gmail.com

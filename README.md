@@ -2,4 +2,4 @@
 
 
 - 🌱 I’m currently Unity & CSharp
-- 📫 How to reach me: contact@firefx.moe & firefox9067@gmail.com
+- 📫 How to reach me: firefox9067@gmail.com
